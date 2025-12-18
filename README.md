@@ -20,7 +20,7 @@ Required parts (from left to right of the schematic):
 * 1x 2N3904 NPN Transistor
 * 1x Relay (must be 5V but the amperage depends on the user device)
 * 1x Female plug
-* And some wire, and optional but higly recommended is some form of box to put all the electronics in (e.g. a waterproof kitchen container, a large junction box etc.)
+* And some wire, and optional but highly recommended is some form of box to put all the electronics in (e.g. a waterproof kitchen container, a large junction box etc.)
 
 # Flashing the SSPlug 
 
