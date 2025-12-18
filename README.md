@@ -1,5 +1,5 @@
 # SSPlug
-A ***Simple Smart Plug***, privacy focused, fully open source and unrelient on anything. Simply plug in and use.
+A ***Simple Smart Plug***, privacy focused, fully open source and unreliant on anything. Simply plug in and use.
 
 # How does one build this?
 
