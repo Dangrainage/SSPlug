@@ -5,7 +5,7 @@ A ***Simple Smart Plug***, privacy focused, fully open source and unrelient on a
 
 SSPlug is made from easily accessible and relatively cheap parts so even people who are more down on their luck than others can make and use it.
 Building one requires knowledge on reading electical schematics, basic use of tools such as a soldering iron. 
-A computer is also
+A computer is also required for flashing.
 
 Below is the schematic as well as the parts needed to build one.
 
