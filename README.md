@@ -26,7 +26,7 @@ Required parts (from left to right of the schematic):
 
 Download the code from SSPlugSource/code, and download and install ArduinoIDE then open the code.
 ### Be sure to change the `ssid` and `password` variables to your SSID and password before flashing! 
-Flash your microcontroller by plugging it into your computer and select it from the list, then just upload using CTRL + U or pressing the upload button.
+Flash your microcontroller by plugging it into your computer and selecting it from the list, then just upload using CTRL + U or pressing the upload button.
 
 You have now flashed your smart plug.
 
