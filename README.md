@@ -12,7 +12,7 @@ Below is the schematic as well as the parts needed to build one.
 ![Not sure what this does :)](SSPlugSource/schematic_photo/schematic_final.png)
 
 Required parts (from left to right of the schematic):
-1x Male electrical plug
+`1x Male electrical plug
 1x Kipp (or other) switch
 1x The guts of a phone charger (or a similar 220/120V AC to 5V DC converter)
 2x Diode
@@ -20,7 +20,7 @@ Required parts (from left to right of the schematic):
 1x 2N3904 NPN Transistor
 1x Relay (must be 5V but the amperage depends on the user device)
 1x Female plug
-And some wire, and optional but higly recommended is some form of box to put all the electronics in (e.g. a waterproof kitchen container, a large junction box etc.) 
+And some wire, and optional but higly recommended is some form of box to put all the electronics in (e.g. a waterproof kitchen container, a large junction box etc.)`
 
 # Flashing the SSPlug 
 
